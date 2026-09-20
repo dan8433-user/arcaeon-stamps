@@ -17,7 +17,7 @@ That a file with this exact fingerprint was on this public record no later than 
 
 ## Checking a stamp yourself
 
-Compute the SHA-256 of the file on your own machine and look for that fingerprint in this repository. The commit history is public, and the dates on it are set by GitHub, not by Arcaeon. If a record here were changed or replaced after the fact, the commit history would show it. You do not need to contact Arcaeon or trust Arcaeon's servers to make this check.
+Compute the SHA-256 of the file on your own machine and look for that fingerprint in this repository. The commit history is public, and anyone can clone or mirror this repository at any time. A copy made today cannot be changed by Arcaeon afterwards, so if a record here were changed or replaced after the fact, the history and any earlier copy would show it. A commit date on its own is a statement by whoever wrote the commit; what gives it weight is that the record is public and copied from the moment it is written. You do not need to contact Arcaeon or trust Arcaeon's servers to make this check.
 
 ## Layout
 
